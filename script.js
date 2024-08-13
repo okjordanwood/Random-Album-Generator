@@ -101,6 +101,23 @@ const displayAlbum = (album) => {
         return;
     }
 
+    const artistPictureElement = document.getElementById('artistPicture');
+    const artistImageName = `${album.artist.replace(/\s+/g, '').toLowerCase()}.jpg`; // e.g., 'thebeatles.jpg'
+    const customImagePath = `images/artists/${artistImageName}`;
+
+    // Check if the custom image exists
+    fetch(customImagePath)
+        .then(response => {
+            if (response.ok) {
+                artistPictureElement.src = customImagePath;  // Use custom image
+            } else {
+                artistPictureElement.src = album.artistPicture || 'placeholder_artist.jpg';  // Fallback to Spotify image
+            }
+        })
+        .catch(() => {
+            artistPictureElement.src = album.artistPicture || 'placeholder_artist.jpg';  // Fallback to Spotify image
+        });
+
     document.getElementById('albumTitle').textContent = `${album.title} by ${album.artist}`;
     document.getElementById('coverArt').src = album.coverArt || 'placeholder_cover.jpg';
     document.getElementById('artistPicture').src = album.artistPicture || 'placeholder_artist.jpg';
