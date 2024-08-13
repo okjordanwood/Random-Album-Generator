@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Album Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Album Generator</h1>
+<label for="genreSelect">Select Genre:</label>
+<select id="genreSelect">
+    <option value="all">All Genres</option>
+    <option value="hip hop">Hip Hop</option>
+    <option value="rock">Rock</option>
+    <option value="pop">Pop</option>
+    <option value="r&b">R&B</option>
+</select>
+<button id="generateButton">Generate Album</button>
+
+<div id="loadingMessage" style="display: none;">Loading...</div> <!-- Loading message -->
+<div id="albumInfo">
+    <h2 id="albumTitle"></h2>
+    <div id="coverAndArtist"> <!-- New wrapper div for the cover art and artist picture -->
+        <img id="coverArt" src="" alt="Album Cover Art">
+        <img id="artistPicture" src="" alt="Artist Picture">
+    </div>
+    <p id="genreInfo"></p>
+    <p id="releaseDate"></p>
+    <a id="spotifyLink" href="" target="_blank">Listen on Spotify</a>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

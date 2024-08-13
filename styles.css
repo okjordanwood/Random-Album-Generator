@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#albumInfo {
+    margin-top: 20px;
+}
+
+#coverAndArtist {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px; /* Space between the album cover and the artist picture */
+}
+
+#coverArt, #artistPicture {
+    width: 300px;
+    height: auto;
+}
+
+#genreInfo, #releaseDate {
+    font-size: 1.2em;
+}
+
+#subgenreText {
+    font-size: 0.9em;
+    display: block;
+    margin-top: 5px;
+}
+
+#spotifyLink {
+    font-size: 1.2em;
+    color: #1DB954;
+    text-decoration: none;
+}
+
+#spotifyLink:hover {
+    text-decoration: underline;
+}
