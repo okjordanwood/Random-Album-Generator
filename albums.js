@@ -2,7 +2,7 @@ const albumList = [
     {
         "album": "1000 gecs",
         "artist": "100 gecs",
-        "genre": "pop",
+        "genre": "Pop",
         "subgenres": [
             "Electropop",
             "Experimental Pop",
@@ -15,7 +15,7 @@ const albumList = [
     {
         "album": "1999",
         "artist": "Joey Bada$$",
-        "genre": "hip hop",
+        "genre": "Hip Hop",
         "subgenres": [
             "Boom Bap",
             "East Coast Hip Hop",
@@ -26,7 +26,7 @@ const albumList = [
     {
         "album": "2",
         "artist": "Mac DeMarco",
-        "genre": "rock",
+        "genre": "Rock",
         "subgenres": [
             "Bedroom Pop",
             "Indie Rock",
@@ -39,7 +39,7 @@ const albumList = [
     {
         "album": "2014 Forest Hills Drive",
         "artist": "J. Cole",
-        "genre": "hip hop",
+        "genre": "Hip Hop",
         "subgenres": [
             "Conscious Hip Hop",
             "East Coast Hip Hop",
@@ -50,7 +50,7 @@ const albumList = [
     {
         "album": "40oz. To Freedom",
         "artist": "Sublime",
-        "genre": "rock",
+        "genre": "Rock",
         "subgenres": [
             "Alternative Rock",
             "Dub",
@@ -63,7 +63,7 @@ const albumList = [
     {
         "album": "4 Your Eyez Only",
         "artist": "J. Cole",
-        "genre": "hip hop",
+        "genre": "Hip Hop",
         "subgenres": [
             "Conscious Hip Hop",
             "Jazz Rap",
@@ -75,7 +75,7 @@ const albumList = [
     {
         "album": "808s & Heartbreak",
         "artist": "Kanye West",
-        "genre": "r&b",
+        "genre": "R&B",
         "subgenres": [
             "Alternative R&B",
             "Electropop",
@@ -88,7 +88,7 @@ const albumList = [
     {
         "album": "Abbey Road",
         "artist": "The Beatles",
-        "genre": "rock",
+        "genre": "Rock",
         "subgenres": [
             "Art Rock",
             "Blues Rock",

@@ -11,7 +11,7 @@ fs.createReadStream('albums.csv')
         const cleanedData = {
             album: data[albumKey].trim(),
             artist: data.artist.trim(),
-            genre: data.genre.trim().toLowerCase(),
+            genre: data.genre.trim(),
             subgenres: data.subgenres.split(',').map(subgenre => subgenre.trim())
         };
         console.log('Processing row:', cleanedData);
