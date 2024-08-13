@@ -17,3 +17,8 @@ Album Generator is a web application that allows users to randomly select an alb
 Make sure you have the following installed:
 + Node.js
 + A modern web browser (e.g., Chrome, Firefox, Edge)
+
+## Usage
+Select Genre: Use the dropdown to select a genre or keep it as "All Genres" to include all albums.
+Generate Album: Click on the "Generate Album" button to fetch and display a random album's information.
+Listen on Spotify: Click on the "Listen on Spotify" link to open the album on Spotify.
