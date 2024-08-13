@@ -60,12 +60,6 @@ const fetchAlbumData = async (albumName, artistName) => {
     };
 };
 
-const albumList = [
-    { album: "1000 gecs", artist: "100 gecs", genre: "Pop", subgenres: ["Electropop", "Experimental pop", "Glitch pop", "Hyperpop", "Nightcore", "Pop punk"] },
-    { album: "To Pimp a Butterfly", artist: "Kendrick Lamar", genre: "hip hop", subgenres: ["Conscious Hip Hop", "Experimental Hip Hop", "Funk", "Jazz Rap", "Neo-soul", "Political Hip Hop", "Progressive Rap", "West Coast Hip Hop"] },
-    { album: "Dark Side of the Moon", artist: "Pink Floyd", genre: "rock", subgenres: ["Art Rock", "Progressive Rock", "Psychedelic Rock"] },
-];
-
 const fetchAllAlbums = async () => {
     if (albumDataCache) {
         console.log('Using cached album data.');
