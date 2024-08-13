@@ -6,12 +6,16 @@ const results = [];
 fs.createReadStream('albums.csv')
     .pipe(csv())
     .on('data', (data) => {
-        results.push({
-            album: data.album,
-            artist: data.artist,
-            genre: data.genre.toLowerCase(),
+        // Remove any potential BOM from the key 'album'
+        const albumKey = Object.keys(data).find(key => key.includes('album'));
+        const cleanedData = {
+            album: data[albumKey].trim(),
+            artist: data.artist.trim(),
+            genre: data.genre.trim().toLowerCase(),
             subgenres: data.subgenres.split(',').map(subgenre => subgenre.trim())
-        });
+        };
+        console.log('Processing row:', cleanedData);
+        results.push(cleanedData);
     })
     .on('end', () => {
         const output = `const albumList = ${JSON.stringify(results, null, 4)};`;
