@@ -1,1 +1,1 @@
-# Album Generator 🎵
+## Album Generator 🎵
