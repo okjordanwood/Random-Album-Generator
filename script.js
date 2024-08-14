@@ -35,6 +35,18 @@ const fetchArtistData = async (artistId) => {
 const fetchAlbumData = async (albumName, artistName) => {
     const token = await getToken();
 
+    // Special case for "Culture" by Migos to avoid fetching "Culture II"
+    if (albumName.toLowerCase() === 'culture' && artistName.toLowerCase() === 'migos') {
+        const cultureAlbumId = '2AvupjUeMnSffKEV05x222'; // Spotify ID for "Culture" by Migos
+        return await fetchAlbumDataById(cultureAlbumId);
+    } else if (albumName.toLowerCase() === 'led zeppelin' && artistName.toLowerCase() === 'led zeppelin') {
+        const ledZepAlbumId = '1J8QW9qsMLx3staWaHpQmU';  // Spotify ID for "Led Zeppelin I" by Led Zeppelin
+        return await fetchAlbumDataById(ledZepAlbumId);
+    } else if (albumName.toLowerCase() === 'led zeppelin II' && artistName.toLowerCase() === 'led zeppelin') {
+        const ledZepIIAlbumId = '58MQ0PLijVHePUonQlK76Y';  // Spotify ID for "Led Zeppelin II" by Led Zeppelin
+        return await fetchAlbumDataById(ledZepIIAlbumId);
+    }
+
     const result = await fetch(`https://api.spotify.com/v1/search?q=album:${encodeURIComponent(albumName)} artist:${encodeURIComponent(artistName)}&type=album`, {
         method: 'GET',
         headers: { 'Authorization': 'Bearer ' + token }
@@ -47,6 +59,28 @@ const fetchAlbumData = async (albumName, artistName) => {
         console.warn(`No data found for album: ${albumName} by artist: ${artistName}`);
         return null;
     }
+
+    const artistId = album.artists[0].id;
+    const artistData = await fetchArtistData(artistId);
+
+    return {
+        coverArt: album.images[0] ? album.images[0].url : '',
+        artistPicture: artistData.artistPicture,
+        subgenres: album.genres || [],
+        releaseDate: album.release_date || '',
+        spotifyUrl: album.external_urls.spotify
+    };
+};
+
+const fetchAlbumDataById = async (albumId) => {
+    const token = await getToken();
+
+    const result = await fetch(`https://api.spotify.com/v1/albums/${albumId}`, {
+        method: 'GET',
+        headers: { 'Authorization': 'Bearer ' + token }
+    });
+
+    const album = await result.json();
 
     const artistId = album.artists[0].id;
     const artistData = await fetchArtistData(artistId);

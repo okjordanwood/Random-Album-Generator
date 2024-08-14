@@ -1,32 +1,224 @@
-﻿album,artist,genre,subgenres,
-1000 gecs,100 gecs,Pop,"Electropop, Experimental Pop, Glitch Pop, Hyperpop, Nightcore, Pop Punk",
-1999,Joey Bada$$,Hip Hop,"Boom Bap, East Coast Hip Hop, Jazz Rap, Underground Hip Hop",
-2,Mac DeMarco,Rock,"Bedroom Pop, Indie Rock, Jangle Pop, Lo-Fi, Psychedelic Pop, Slacker Rock",
-2014 Forest Hills Drive,J. Cole,Hip Hop,"Conscious Hip Hop, East Coast Hip Hop, Southern Hip Hop, Trap",
-40oz. To Freedom,Sublime,Rock,"Alternative Rock, Dub, Punk Rock, Reggae Rock, Ska, Ska Punk",
-4 Your Eyez Only,J. Cole,Hip Hop,"Conscious Hip Hop, Jazz Rap, Southern Hip Hop, Soulful Hip Hop, Storytelling Rap",
-808s & Heartbreak,Kanye West,R&B,"Alternative R&B, Electropop, Electro-Rap, Experimental Pop, Progressive R&B, Synthpop",
-Abbey Road,The Beatles,Rock,"Art Rock, Blues Rock, Classic Rock, Experimental Rock Pop Rock, Progressive Rock, Psychedelic Rock",
-Acid Rap,Chance the Rapper,Hip Hop,"Alternative Hip Hop, Chicago Hip Hop, Conscious Hip Hop, Jazz Rap, Neo-Soul, Pop Rap",
-ALL-AMERIKKKAN BADA$$,Joey Bada$$,Hip Hop,"Boom Bap, Conscious Hip Hop, East Coast Hip Hop, Political Hip Hop, Jazz Rap, Hardcore Hip Hop",
-American Beauty,Grateful Dead,Rock,"Americana, Country Rock, Folk Rock, Psychedelic Rock, Roots Rock, Singer-Songwriter",
-Animals,Pink Floyd,Rock,"Art Rock, Progressive Rock, Psychedelic Rock, Space Rock",
-Another One,Mac DeMarco,Rock,"Bedroom Pop, Indie Pop, Indie Rock, Jangle Pop, Lo-Fi, Soft Rock",
-Apollo XXI,Steve Lacy,R&B,"Alternative R&B, Bedroom Pop, Funk, Indie Rock, Neo-Soul, Psychedelic Pop, Psychedelic Soul",
-Appetite For Destruction,Guns N' Roses,Rock,"Glam Metal, Hard Rock, Heavy Metal, Sleaze Rock",
-Are You Experienced,Jimi Hendrix,Rock,"Acid Rock, Blues Rock, Hard Rock, Psychedelic Blues, Psychedelic Rock, ",
-ARIZONA BABY,Kevin Abstract,Hip Hop,"Alternative Hip Hop, Alternative R&B, Art Pop, Bedroom Pop, Indie Pop, Pop Rap, Psychedelic Pop",
-ASTROWORLD,Travis Scott,Hip Hop,"Alternative Hip Hop, Cloud Rap, Experimental Hip Hop, Pop Rap, Psychedelic Hip Hop, Southern Hip Hop, Trap",
-Atavista,Childish Gambino,Hip Hop,"Alternative Hip Hop, Art Pop, Experimental Hip Hop, Funk, Pop Rap, Psychedelic R&B, Psychedelic Soul ",
-AT.LONG.LAST.A$AP,A$AP Rocky,Hip Hop,"Cloud Rap, East Coast Hip Hop, Experimental Hip Hop, Psychedelic Hip Hop, Southern Hip Hop, Trap",
-Atom Heart Mother,Pink Floyd,Rock,"Art Rock, Experimental Rock, Progressive Rock, Psychedelic Folk, Psychedelic Rock, Symphonic Rock",
-"""Awaken, My Love!""",Childish Gambino,R&B,"Funk, Neo-Soul, Psychedelic Rock, Psychedelic Soul",
-Axis: Bold As Love,Jimi Hendrix,Rock,"Acid Rock, Blues Rock, Experimental Rock, Hard Rock, Psychedelic Blues, Psychedelic Rock",
-Back In Black,AC/DC,Rock,"Arena Rock, Blues Rock, Hard Rock, Heavy Metal",
-Barter 6,Young Thug,Hip Hop,"Atlanta Hip Hop, Cloud Rap, Experimental Hip Hop, Southern Hip Hop, Trap",
-Beautiful Thugger Girls,Young Thug,Hip Hop,"Alternative R&B, Country Trap, Pop Rap, Southern Hip Hop, Trap",g-g
-Because the Internet,Childish Gambino,Hip Hop,"Alternative Hip Hop, Alternative R&B, Art Pop, Cloud Rap, Conscious Hip Hop, Experimental Hip Hop, Neo-Soul",
-beerbongs & bentleys,Post Malone,Hip Hop,"Cloud Rap, Emo Rap, Pop Rap, Trap",
-Big Fish Theory,Vince Staples,Hip Hop,"Alternative Hip Hop, Dance-Punk, Electronic Hip Hop, Experimental Hip Hop, House, Industrial Hip Hop",
-Birds In The Trap Sing McKnight,Travis Scott,Hip Hop,"Cloud Rap, Pop Rap, Psychedelic Hip Hop, Southern Hip Hop, Trap",
-Blonde,Frank Ocean,R&B,"Alternative R&B, Art Pop, Avant-Garde Soul, Experimental Pop, Neo-Soul, Psychedelic Pop, Singer-Songwriter",
+﻿album,artist,genre,subgenres
+1000 gecs,100 gecs,Pop,"Electropop, Experimental Pop, Glitch Pop, Hyperpop, Nightcore, Pop Punk"
+1999,Joey Bada$$,Hip Hop,"Boom Bap, East Coast Hip Hop, Jazz Rap, Underground Hip Hop"
+2,Mac DeMarco,Rock,"Bedroom Pop, Indie Rock, Jangle Pop, Lo-Fi, Psychedelic Pop, Slacker Rock"
+2014 Forest Hills Drive,J. Cole,Hip Hop,"Conscious Hip Hop, East Coast Hip Hop, Southern Hip Hop, Trap"
+40oz. To Freedom,Sublime,Rock,"Alternative Rock, Dub, Punk Rock, Reggae Rock, Ska, Ska Punk"
+4 Your Eyez Only,J. Cole,Hip Hop,"Conscious Hip Hop, Jazz Rap, Southern Hip Hop, Soulful Hip Hop, Storytelling Rap"
+808s & Heartbreak,Kanye West,R&B,"Alternative R&B, Electropop, Electro-Rap, Experimental Pop, Progressive R&B, Synthpop"
+Abbey Road,The Beatles,Rock,"Art Rock, Blues Rock, Classic Rock, Experimental Rock Pop Rock, Progressive Rock, Psychedelic Rock"
+Acid Rap,Chance the Rapper,Hip Hop,"Alternative Hip Hop, Chicago Hip Hop, Conscious Hip Hop, Jazz Rap, Neo-Soul, Pop Rap"
+ALL-AMERIKKKAN BADA$$,Joey Bada$$,Hip Hop,"Boom Bap, Conscious Hip Hop, East Coast Hip Hop, Political Hip Hop, Jazz Rap, Hardcore Hip Hop"
+American Beauty,Grateful Dead,Rock,"Americana, Country Rock, Folk Rock, Psychedelic Rock, Roots Rock, Singer-Songwriter"
+Animals,Pink Floyd,Rock,"Art Rock, Progressive Rock, Psychedelic Rock, Space Rock"
+Another One,Mac DeMarco,Rock,"Bedroom Pop, Indie Pop, Indie Rock, Jangle Pop, Lo-Fi, Soft Rock"
+Apollo XXI,Steve Lacy,R&B,"Alternative R&B, Bedroom Pop, Funk, Indie Rock, Neo-Soul, Psychedelic Pop, Psychedelic Soul"
+Appetite For Destruction,Guns N' Roses,Rock,"Glam Metal, Hard Rock, Heavy Metal, Sleaze Rock"
+Are You Experienced,Jimi Hendrix,Rock,"Acid Rock, Blues Rock, Hard Rock, Psychedelic Blues, Psychedelic Rock"
+ARIZONA BABY,Kevin Abstract,Hip Hop,"Alternative Hip Hop, Alternative R&B, Art Pop, Bedroom Pop, Indie Pop, Pop Rap, Psychedelic Pop"
+ASTROWORLD,Travis Scott,Hip Hop,"Alternative Hip Hop, Cloud Rap, Experimental Hip Hop, Pop Rap, Psychedelic Hip Hop, Southern Hip Hop, Trap"
+Atavista,Childish Gambino,Hip Hop,"Alternative Hip Hop, Art Pop, Experimental Hip Hop, Funk, Pop Rap, Psychedelic R&B, Psychedelic Soul"
+AT.LONG.LAST.A$AP,A$AP Rocky,Hip Hop,"Cloud Rap, East Coast Hip Hop, Experimental Hip Hop, Psychedelic Hip Hop, Southern Hip Hop, Trap"
+Atom Heart Mother,Pink Floyd,Rock,"Art Rock, Experimental Rock, Progressive Rock, Psychedelic Folk, Psychedelic Rock, Symphonic Rock"
+Atrocity Exhibition,Danny Brown,Hip Hop,"Alternative Hip Hop, Art Rap, Avant-Garde Hip Hop, Experimental Hip Hop, Industrial Hip Hop, Post-Punk, Psychedelic Hip Hop "
+"""Awaken, My Love!""",Childish Gambino,R&B,"Funk, Neo-Soul, Psychedelic Rock, Psychedelic Soul"
+Axis: Bold As Love,Jimi Hendrix,Rock,"Acid Rock, Blues Rock, Experimental Rock, Hard Rock, Psychedelic Blues, Psychedelic Rock"
+Back In Black,AC/DC,Rock,"Arena Rock, Blues Rock, Hard Rock, Heavy Metal"
+Barter 6,Young Thug,Hip Hop,"Atlanta Hip Hop, Cloud Rap, Experimental Hip Hop, Southern Hip Hop, Trap"
+Beautiful Thugger Girls,Young Thug,Hip Hop,"Alternative R&B, Country Trap, Pop Rap, Southern Hip Hop, Trap"
+Because the Internet,Childish Gambino,Hip Hop,"Alternative Hip Hop, Alternative R&B, Art Pop, Cloud Rap, Conscious Hip Hop, Experimental Hip Hop, Neo-Soul"
+beerbongs & bentleys,Post Malone,Hip Hop,"Cloud Rap, Emo Rap, Pop Rap, Trap"
+Big Fish Theory,Vince Staples,Hip Hop,"Alternative Hip Hop, Dance-Punk, Electronic Hip Hop, Experimental Hip Hop, House, Industrial Hip Hop"
+Birds In The Trap Sing McKnight,Travis Scott,Hip Hop,"Cloud Rap, Pop Rap, Psychedelic Hip Hop, Southern Hip Hop, Trap"
+Blonde,Frank Ocean,R&B,"Alternative R&B, Art Pop, Avant-Garde Soul, Experimental Pop, Neo-Soul, Psychedelic Pop, Singer-Songwriter"
+CALL ME IF YOU GET LOST,"Tyler, The Creator",Hip Hop,"Alternative Hip Hop, Alternative R&B, Jazz Rap, Pop Rap, Soul, West Coast Hip Hop"
+Camp,Childish Gambino,Hip Hop,"Alternative Hip Hop, Conscious Hip Hop, Electropop, Indie Rap, Pop Rap"
+Care Package,Drake,Hip Hop,"Alternative R&B, Contemporary R&B, Pop Rap, Trap"
+CASE STUDY 01,Daniel Caesar,R&B,"Alternative R&B, Contemporary R&B, Neo-Soul, Neo-Psychedelia, Psychedelic Soul"
+channel ORANGE,Frank Ocean,R&B,"Alternative R&B, Art Pop, Contemporary R&B, Neo-Soul, Progressive Soul"
+Charm,Clairo,Pop,"Bedroom Pop, Chamber Pop, Indie Pop, Jazz Pop, Pop Soul, Psychedelic Pop, Soft Rock"
+Cherry Bomb,"Tyler, The Creator",Hip Hop,"Alternative Hip Hop, Experimental Hip Hop, Hardcore Hip Hop, Jazz Rap, Neo-Soul"
+Cilvia Demo,Isaiah Rashad,Hip Hop,"Alternative Hip Hop, Cloud Rap, Conscious Hip Hop, Jazz Rap, Southern Hip Hop, Trap"
+The College Dropout,Kanye West,Hip Hop,"Alternative Hip Hop, Backpack Rap, Chipmunk Soul, Conscious Hip Hop, Pop Rap, Progressive Hip Hop, Soulful Hip Hop"
+Coloring Book,Chance the Rapper,Hip Hop,"Alternative Hip Hop, Chicago Hip Hop, Christian Hip Hop, Gospel Rap, Jazz Rap, Pop Rap, Soulful Hip Hop, Trap"
+Cozy Tapes: Vol. 1 Friends,A$AP Mob,Hip Hop,"Cloud Rap, East Coast Hip Hop, Experimental Hip Hop, Hardcore Hip Hop, Southern Hip Hop, Trap"
+Cozy Tapes Vol. 2: Too Cozy,A$AP Mob,Hip Hop,"Cloud Rap, Crunk, East Coast Hip Hop, Experimental Hip Hop, Hardcore Hip Hop, Mumble Rap, Southern Hip Hop, Trap"
+The Cry of Love,Jimi Hendrix,Rock,"Acid Rock, Blues Rock, Funk Rock, Hard Rock, Psychedelic Rock, Psychedelic Soul"
+Culture,Migos,Hip Hop,"Atlanta Hip Hop, Crunk, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+Culture II,Migos,Hip Hop,"Atlanta Hip Hop, Crunk, Hip House, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+Culture III,Migos,Hip Hop,"Atlanta Hip Hop, Crunk, Drill, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+Currents,Tame Impala,Pop,"Dream Pop, Electropop, Indie Rock, Neo-Psychedelia, Psychedelic Pop, Psychedelic Rock, Synthpop, Soft Rock"
+DAMN.,Kendrick Lamar,Hip Hop,"Conscious Hip Hop, Conscious Trap, Contemporary R&B, Experimental Hip Hop, Gangsta Rap, Jazz Rap, Pop Rap, Trap, West Coast Hip Hop"
+The Dark Side of the Moon,Pink Floyd,Rock,"Art Rock, Experimental Rock, Progressive Rock, Psychedelic Rock, Space Rock, Symphonic Rock, Concept Album"
+Death Race For Love,Juice WRLD,Hip Hop,"Alternative Hip Hop, Alternative R&B, Emo Rap, Melodic Rap, Pop Punk, Pop Rap, Rock Rap, SoundCloud Rap, Trap"
+diary 001,Clairo,Pop,"Alternative R&B, Bedroom Pop, Dream Pop, Indie Pop, Lo-Fi Pop, Soft Rock, Synthpop"
+Die Lit,Playboi Carti,Hip Hop,"Ambient Trap, Cloud Rap, Mumble Rap, Punk Rap, SoundCloud Rap, Trap"
+Dire Straits,Dire Straits,Rock,"Blues Rock, Classic Rock, Country Rock, Pub Rock, Roots Rock, Soft Rock"
+Disraeli Gears,Cream,Rock,"Acid Rock, Blues Rock, Garage Rock, Psychedelic Rock"
+The Divine Feminine,Mac Miller,Hip Hop,"Alternative Hip Hop, Contemporary R&B, Jazz Rap, Neo-Soul, Pop Rap, Soulful Hip Hop"
+The Division Bell,Pink Floyd,Rock,"Ambient Rock, Arena Rock, Art Rock, Progressive Rock, Psychedelic Rock, Symphonic Rock"
+Donda,Kanye West,Hip Hop,"Alternative Hip Hop, Christian Hip Hop, Drill, Experimental Hip Hop, Gospel Rap, Industrial Hip Hop, Pop Rap, Psychedelic Hip Hop, Trap"
+"Don't Forget About Me, Demos",Dominic Fike,Pop,"Alternative Hip Hop, Alternative R&B, Bedroom Pop, Indie Pop, Lo-Fi Pop, Pop Rock"
+The Doors,The Doors,Rock,"Acid Rock, Art Rock, Blues Rock, Hard Rock, Psychedelic Rock"
+Drunk,Thundercat,R&B,"Alternative R&B, Art Pop, Electro-Funk, Funk, Jazz Fusion, Neo-Soul, Progressive R&B, Psychedelic Soul"
+DS2 (Dirty Sprite 2),Future,Hip Hop,"Atlanta Hip Hop, Mumble Rap, Pop Rap, Psychedelic Trap, Southern Hip Hop, Trap"
+Electric Ladyland,Jimi Hendrix,Rock,"Acid Rock, Art Rock, Blues Rock, Experimental Rock, Funk Rock, Hard Rock, Psychedelic Blues, Psychedelic Rock"
+Eternal Atake,Lil Uzi Vert,Hip Hop,"Cloud Rap, Emo Rap, Mumble Rap, Pop Rap, Psychedelic Hip Hop, Space Rap, Synthwave, Trap"
+An Evening With Silk Sonic,"Silk Sonic, Bruno Mars, Anderson .Paak",R&B,"Contemporary R&B, Disco, Funk, Funk Pop, Neo-Soul, Philadelphia Soul, Pop Soul, Quiet Storm, Retro-Soul"
+The Final Cut,Pink Floyd,Rock,"Art Rock, Progressive Rock, Psychedelic Rock, Soft Rock, Symphonic Rock, Concept Album"
+Flower Boy,"Tyler, The Creator",Hip Hop,"Alternative Hip Hop, Alternative R&B, Experimental Hip Hop, Jazz Rap, Neo-Soul, Pop Rap, Psychedelic Hip Hop, Soul"
+Freudian,Daniel Caesar,R&B,"Alternative R&B, Contemporary R&B, Gospel, Neo-Soul, Soul"
+Fuck The World,Brent Faiyaz,R&B,"Alternative R&B, Contemporary R&B, Neo-Soul, Trap Soul"
+FUTURE,Future,Hip Hop,"Atlanta Hip Hop, Gangsta Rap, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+Future & Juice WRLD Present… WRLD ON DRUGS,"Future, Juice WRLD",Hip Hop,"Emo Rap, Melodic Rap, Mumble Rap, Pop Rap, Psychedelic Trap, SoundCloud Rap, Southern Hip Hop, Trap"
+Gemini Rights,Steve Lacy,R&B,"Alternative R&B, Funk, Indie Rock, Neo-Soul, Psychedelic Soul"
+Goblin,"Tyler, The Creator",Hip Hop,"Alternative Hip Hop, Experimental Hip Hop, Horrorcore"
+Goodbye & Good Riddance,Juice WRLD,Hip Hop,"Emo Rap, Melodic Rap, Mumble Rap, Pop Rap, SoundCloud Rap, Trap"
+"good kid, m.A.A.d city",Kendrick Lamar,Hip Hop,"Conscious Hip Hop, G-Funk, Gangsta Rap, Jazz Rap, Pop Rap, West Coast Hip Hop, Concept Album"
+Graduation,Kanye West,Hip Hop,"Alternative Hip Hop, Chicago Hip Hop, Electro-Hop, Pop Rap, Progressive Hip Hop, Synthpop"
+Gunfighter Ballads And Trail Songs,Marty Robbins,Rock,"Americana, Country, Cowboy Western, Folk, Western Swing"
+Heaven and Hell,Black Sabbath,Rock,"Classic Metal, Doom Metal, Hard Rock, Heavy Metal"
+Here Comes The Cowboy,Mac DeMarco,Rock,"Alternative Rock, Bedroom Pop, Indie Folk, Indie Pop, Indie Rock, Lo-Fi, Slacker Rock, Soft Rock"
+High Off Life,Future,Hip Hop,"Atlanta Hip Hop, Mumble Rap, Pop Rap, Psychedelic Trap, Southern Hip Hop, Trap"
+HNDRXX,Future,Hip Hop,"Alternative R&B, Contemporary R&B, Melodic Rap, Pop Rap, Soul Trap, Trap"
+Hollywood's Bleeding,Post Malone,Hip Hop,"Alternative R&B, Alternative Rock, Emo Rap, Pop Rap, Pop Rock, Synthpop, Trap"
+Hotel California,Eagles,Rock,"Classic Rock, Country Rock, Folk Rock, Pop Rock, Soft Rock, Southern Rock"
+Hounds of Love,Kate Bush,Pop,"Alternative Rock, Art Pop, Art Rock, Avant-Pop, Baroque Pop, Dream Pop, Progressive Pop, Synthpop"
+Houses of the Holy,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Funk Rock, Hard Rock, Progressive Rock, Psychedelic Rock, Reggae Rock"
+"Huncho Jack, Jack Huncho","Quavo, Travis Scott, Huncho Jack",Hip Hop,"Atlanta Hip Hop, Mumble Rap, Pop Rap, Psychedelic Trap, Southern Hip Hop, Trap"
+i am > i was,21 Savage,Hip Hop,"Atlanta Hip Hop, Conscious Hip Hop, Gangsta Rap, Melodic Rap, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+If You're Reading This It's Too Late,Drake,Hip Hop,"Alternative R&B, Conscious Hip Hop, Pop Rap, Trap, Toronto Sound"
+IGOR,"Tyler, The Creator",Hip Hop,"Alternative Hip Hop, Alternative R&B, Art Pop, Experimental Hip Hop, Neo-Soul, Pop Rap, Progressive R&B, Psychedelic Soul, Synthpop"
+Illmatic,Nas,Hip Hop,"Boom Bap, Conscious Hip Hop, East Coast Hip Hop, Hardcore Hip Hop, Jazz Rap"
+Imperial,Denzel Curry,Hip Hop,"Cloud Rap, Conscious Hip Hop, Hardcore Hip Hop, Southern Hip Hop, Trap"
+I'm Up,Young Thug,Hip Hop,"Atlanta Hip Hop, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+In the Aeroplane Over the Sea,Neutral Milk Hotel,Rock,"Baroque Pop, Folk Rock, Indie Folk, Indie Rock, Lo-Fi, Psychedelic Folk"
+iridescence,BROCKHAMPTON,Hip Hop,"Alternative Hip Hop, Alternative R&B, Experimental Hip Hop, Industrial Hip Hop, Pop Rap, Post-Punk, Psychedelic Hip Hop"
+Issa Album,21 Savage,Hip Hop,"Atlanta Hip Hop, Gangsta Rap, Melodic Rap, Mumble Rap, Southern Hip Hop, Trap"
+JACKBOYS,"Travis Scott, JACKBOYS",Hip Hop,"Atlanta Hip Hop, Mumble Rap, Pop Rap, Psychedelic Trap, Southern Hip Hop, Trap"
+JEFFERY,Young Thug,Hip Hop,"Atlanta Hip Hop, Cloud Rap, Experimental Hip Hop, Mumble Rap, Pop Rap, Southern Hip Hop, Trap"
+Kauai,Childish Gambino,Hip Hop,"Alternative R&B, Contemporary R&B, Electropop, Indie Pop, Pop Rap, Synthpop, Tropical Pop"
+KIDS SEE GHOSTS,"Kanye West, Kid Cudi, KIDS SEE GHOSTS",Hip Hop,"Alternative Hip Hop, Experimental Hip Hop, Industrial Hip Hop, Progressive Hip Hop, Psychedelic Hip Hop, Pop Rap, Rap Rock"
+Kill 'Em All,Metallica,Rock,"Heavy Metal, Speed Metal, Thrash Metal"
+Late Registration,Kanye West,Hip Hop,"Alternative Hip Hop, Chipmunk Soul, Conscious Hip Hop, Jazz Rap, Orchestral Hip Hop, Pop Rap, Progressive Hip Hop, Soul"
+L.A. Woman,The Doors,Rock,"Acid Rock, Blues Rock, Classic Rock, Psychedelic Rock"
+Led Zeppelin,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Folk Rock, Hard Rock, Heavy Metal, Psychedelic Rock"
+Led Zeppelin II,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Hard Rock, Heavy Metal, Psychedelic Rock"
+Led Zeppelin III,Led Zeppelin,Rock,"Acoustic Rock, Blues Rock, Folk Rock, Hard Rock, Psychedelic Rock"
+Led Zeppelin IV,Led Zeppelin,Rock,"Blues Rock, Classic Rock, Folk Rock, Hard Rock, Heavy Metal, Psychedelic Rock,"
+Let's Start Here.,Lil Yachty,Rock,"Alternative Rock, Art Rock, Funk, Neo-Psychedelia, Progressive Rock, Psychedelic Rock"
+The Life Of Pablo,Kanye West,Hip Hop,
+The Life Of Pi'erre 4,Pi'erre Bourne,Hip Hop,
+The Life Of Pi'erre 5,Pi'erre Bourne,Hip Hop,
+LIFE'S A TRIP,Trippie Redd,Hip Hop,
+Lil Uzi Vert vs. The World,Lil Uzi Vert,Hip Hop,
+The Lo-Fis,Steve Lacy,R&B,
+LONG.LIVE.A$AP,A$AP Rocky,Hip Hop,
+Lust For Life,Lana Del Rey,Pop,
+Luv Is Rage,Lil Uzi Vert,Hip Hop,
+Luv Is Rage 2,Lil Uzi Vert,Hip Hop,
+Madvillainy,"Madlib, MF DOOM, Madvillain",Hip Hop,
+Maggot Brain,Funkadelic,Rock,
+Malibu,Anderson .Paak,R&B,
+Man On The Moon: The End Of Day,Kid Cudi,Hip Hop,
+Man On The Moon II: The Legend Of Mr. Rager,Kid Cudi,Hip Hop,
+Master of Reality,Black Sabbath,Rock,
+Meddle,Pink Floyd,Rock,
+Melophobia,Cage The Elephant,Rock,
+MM..FOOD,MF DOOM,Hip Hop,
+A Momentary Lapse of Reason,Pink Floyd,Rock,
+Monster,Future,Hip Hop,
+More Life,Drake,Hip Hop,
+Morrison Hotel,The Doors,Rock,
+Mr. Morale & The Big Steppers,Kendrick Lamar,Hip Hop,
+My Beautiful Dark Twisted Fantasy,Kanye West,Hip Hop,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

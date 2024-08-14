@@ -195,8 +195,7 @@ const albumList = [
             "Blues Rock",
             "Hard Rock",
             "Psychedelic Blues",
-            "Psychedelic Rock",
-            ""
+            "Psychedelic Rock"
         ]
     },
     {
@@ -265,6 +264,20 @@ const albumList = [
             "Psychedelic Folk",
             "Psychedelic Rock",
             "Symphonic Rock"
+        ]
+    },
+    {
+        "album": "Atrocity Exhibition",
+        "artist": "Danny Brown",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Art Rap",
+            "Avant-Garde Hip Hop",
+            "Experimental Hip Hop",
+            "Industrial Hip Hop",
+            "Post-Punk",
+            "Psychedelic Hip Hop"
         ]
     },
     {
@@ -388,6 +401,1217 @@ const albumList = [
             "Neo-Soul",
             "Psychedelic Pop",
             "Singer-Songwriter"
+        ]
+    },
+    {
+        "album": "CALL ME IF YOU GET LOST",
+        "artist": "Tyler, The Creator",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Jazz Rap",
+            "Pop Rap",
+            "Soul",
+            "West Coast Hip Hop"
+        ]
+    },
+    {
+        "album": "Camp",
+        "artist": "Childish Gambino",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Conscious Hip Hop",
+            "Electropop",
+            "Indie Rap",
+            "Pop Rap"
+        ]
+    },
+    {
+        "album": "Care Package",
+        "artist": "Drake",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Pop Rap",
+            "Trap"
+        ]
+    },
+    {
+        "album": "CASE STUDY 01",
+        "artist": "Daniel Caesar",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Neo-Soul",
+            "Neo-Psychedelia",
+            "Psychedelic Soul"
+        ]
+    },
+    {
+        "album": "channel ORANGE",
+        "artist": "Frank Ocean",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Art Pop",
+            "Contemporary R&B",
+            "Neo-Soul",
+            "Progressive Soul"
+        ]
+    },
+    {
+        "album": "Charm",
+        "artist": "Clairo",
+        "genre": "Pop",
+        "subgenres": [
+            "Bedroom Pop",
+            "Chamber Pop",
+            "Indie Pop",
+            "Jazz Pop",
+            "Pop Soul",
+            "Psychedelic Pop",
+            "Soft Rock"
+        ]
+    },
+    {
+        "album": "Cherry Bomb",
+        "artist": "Tyler, The Creator",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop",
+            "Jazz Rap",
+            "Neo-Soul"
+        ]
+    },
+    {
+        "album": "Cilvia Demo",
+        "artist": "Isaiah Rashad",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Cloud Rap",
+            "Conscious Hip Hop",
+            "Jazz Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "The College Dropout",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Backpack Rap",
+            "Chipmunk Soul",
+            "Conscious Hip Hop",
+            "Pop Rap",
+            "Progressive Hip Hop",
+            "Soulful Hip Hop"
+        ]
+    },
+    {
+        "album": "Coloring Book",
+        "artist": "Chance the Rapper",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Chicago Hip Hop",
+            "Christian Hip Hop",
+            "Gospel Rap",
+            "Jazz Rap",
+            "Pop Rap",
+            "Soulful Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Cozy Tapes: Vol. 1 Friends",
+        "artist": "A$AP Mob",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Cloud Rap",
+            "East Coast Hip Hop",
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Cozy Tapes Vol. 2: Too Cozy",
+        "artist": "A$AP Mob",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Cloud Rap",
+            "Crunk",
+            "East Coast Hip Hop",
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop",
+            "Mumble Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "The Cry of Love",
+        "artist": "Jimi Hendrix",
+        "genre": "Rock",
+        "subgenres": [
+            "Acid Rock",
+            "Blues Rock",
+            "Funk Rock",
+            "Hard Rock",
+            "Psychedelic Rock",
+            "Psychedelic Soul"
+        ]
+    },
+    {
+        "album": "Culture",
+        "artist": "Migos",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Crunk",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Culture II",
+        "artist": "Migos",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Crunk",
+            "Hip House",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Culture III",
+        "artist": "Migos",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Crunk",
+            "Drill",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Currents",
+        "artist": "Tame Impala",
+        "genre": "Pop",
+        "subgenres": [
+            "Dream Pop",
+            "Electropop",
+            "Indie Rock",
+            "Neo-Psychedelia",
+            "Psychedelic Pop",
+            "Psychedelic Rock",
+            "Synthpop",
+            "Soft Rock"
+        ]
+    },
+    {
+        "album": "DAMN.",
+        "artist": "Kendrick Lamar",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Conscious Hip Hop",
+            "Conscious Trap",
+            "Contemporary R&B",
+            "Experimental Hip Hop",
+            "Gangsta Rap",
+            "Jazz Rap",
+            "Pop Rap",
+            "Trap",
+            "West Coast Hip Hop"
+        ]
+    },
+    {
+        "album": "The Dark Side of the Moon",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            "Art Rock",
+            "Experimental Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Space Rock",
+            "Symphonic Rock",
+            "Concept Album"
+        ]
+    },
+    {
+        "album": "Death Race For Love",
+        "artist": "Juice WRLD",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Emo Rap",
+            "Melodic Rap",
+            "Pop Punk",
+            "Pop Rap",
+            "Rock Rap",
+            "SoundCloud Rap",
+            "Trap"
+        ]
+    },
+    {
+        "album": "diary 001",
+        "artist": "Clairo",
+        "genre": "Pop",
+        "subgenres": [
+            "Alternative R&B",
+            "Bedroom Pop",
+            "Dream Pop",
+            "Indie Pop",
+            "Lo-Fi Pop",
+            "Soft Rock",
+            "Synthpop"
+        ]
+    },
+    {
+        "album": "Die Lit",
+        "artist": "Playboi Carti",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Ambient Trap",
+            "Cloud Rap",
+            "Mumble Rap",
+            "Punk Rap",
+            "SoundCloud Rap",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Dire Straits",
+        "artist": "Dire Straits",
+        "genre": "Rock",
+        "subgenres": [
+            "Blues Rock",
+            "Classic Rock",
+            "Country Rock",
+            "Pub Rock",
+            "Roots Rock",
+            "Soft Rock"
+        ]
+    },
+    {
+        "album": "Disraeli Gears",
+        "artist": "Cream",
+        "genre": "Rock",
+        "subgenres": [
+            "Acid Rock",
+            "Blues Rock",
+            "Garage Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "The Divine Feminine",
+        "artist": "Mac Miller",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Contemporary R&B",
+            "Jazz Rap",
+            "Neo-Soul",
+            "Pop Rap",
+            "Soulful Hip Hop"
+        ]
+    },
+    {
+        "album": "The Division Bell",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            "Ambient Rock",
+            "Arena Rock",
+            "Art Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Symphonic Rock"
+        ]
+    },
+    {
+        "album": "Donda",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Christian Hip Hop",
+            "Drill",
+            "Experimental Hip Hop",
+            "Gospel Rap",
+            "Industrial Hip Hop",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Don't Forget About Me, Demos",
+        "artist": "Dominic Fike",
+        "genre": "Pop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Bedroom Pop",
+            "Indie Pop",
+            "Lo-Fi Pop",
+            "Pop Rock"
+        ]
+    },
+    {
+        "album": "The Doors",
+        "artist": "The Doors",
+        "genre": "Rock",
+        "subgenres": [
+            "Acid Rock",
+            "Art Rock",
+            "Blues Rock",
+            "Hard Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Drunk",
+        "artist": "Thundercat",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Art Pop",
+            "Electro-Funk",
+            "Funk",
+            "Jazz Fusion",
+            "Neo-Soul",
+            "Progressive R&B",
+            "Psychedelic Soul"
+        ]
+    },
+    {
+        "album": "DS2 (Dirty Sprite 2)",
+        "artist": "Future",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Electric Ladyland",
+        "artist": "Jimi Hendrix",
+        "genre": "Rock",
+        "subgenres": [
+            "Acid Rock",
+            "Art Rock",
+            "Blues Rock",
+            "Experimental Rock",
+            "Funk Rock",
+            "Hard Rock",
+            "Psychedelic Blues",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Eternal Atake",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Cloud Rap",
+            "Emo Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Space Rap",
+            "Synthwave",
+            "Trap"
+        ]
+    },
+    {
+        "album": "An Evening With Silk Sonic",
+        "artist": "Silk Sonic, Bruno Mars, Anderson .Paak",
+        "genre": "R&B",
+        "subgenres": [
+            "Contemporary R&B",
+            "Disco",
+            "Funk",
+            "Funk Pop",
+            "Neo-Soul",
+            "Philadelphia Soul",
+            "Pop Soul",
+            "Quiet Storm",
+            "Retro-Soul"
+        ]
+    },
+    {
+        "album": "The Final Cut",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            "Art Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Soft Rock",
+            "Symphonic Rock",
+            "Concept Album"
+        ]
+    },
+    {
+        "album": "Flower Boy",
+        "artist": "Tyler, The Creator",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Experimental Hip Hop",
+            "Jazz Rap",
+            "Neo-Soul",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Soul"
+        ]
+    },
+    {
+        "album": "Freudian",
+        "artist": "Daniel Caesar",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Gospel",
+            "Neo-Soul",
+            "Soul"
+        ]
+    },
+    {
+        "album": "Fuck The World",
+        "artist": "Brent Faiyaz",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Neo-Soul",
+            "Trap Soul"
+        ]
+    },
+    {
+        "album": "FUTURE",
+        "artist": "Future",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Gangsta Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Future & Juice WRLD Present… WRLD ON DRUGS",
+        "artist": "Future, Juice WRLD",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Emo Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "SoundCloud Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Gemini Rights",
+        "artist": "Steve Lacy",
+        "genre": "R&B",
+        "subgenres": [
+            "Alternative R&B",
+            "Funk",
+            "Indie Rock",
+            "Neo-Soul",
+            "Psychedelic Soul"
+        ]
+    },
+    {
+        "album": "Goblin",
+        "artist": "Tyler, The Creator",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Experimental Hip Hop",
+            "Horrorcore"
+        ]
+    },
+    {
+        "album": "Goodbye & Good Riddance",
+        "artist": "Juice WRLD",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Emo Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "SoundCloud Rap",
+            "Trap"
+        ]
+    },
+    {
+        "album": "good kid, m.A.A.d city",
+        "artist": "Kendrick Lamar",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Conscious Hip Hop",
+            "G-Funk",
+            "Gangsta Rap",
+            "Jazz Rap",
+            "Pop Rap",
+            "West Coast Hip Hop",
+            "Concept Album"
+        ]
+    },
+    {
+        "album": "Graduation",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Chicago Hip Hop",
+            "Electro-Hop",
+            "Pop Rap",
+            "Progressive Hip Hop",
+            "Synthpop"
+        ]
+    },
+    {
+        "album": "Gunfighter Ballads And Trail Songs",
+        "artist": "Marty Robbins",
+        "genre": "Rock",
+        "subgenres": [
+            "Americana",
+            "Country",
+            "Cowboy Western",
+            "Folk",
+            "Western Swing"
+        ]
+    },
+    {
+        "album": "Heaven and Hell",
+        "artist": "Black Sabbath",
+        "genre": "Rock",
+        "subgenres": [
+            "Classic Metal",
+            "Doom Metal",
+            "Hard Rock",
+            "Heavy Metal"
+        ]
+    },
+    {
+        "album": "Here Comes The Cowboy",
+        "artist": "Mac DeMarco",
+        "genre": "Rock",
+        "subgenres": [
+            "Alternative Rock",
+            "Bedroom Pop",
+            "Indie Folk",
+            "Indie Pop",
+            "Indie Rock",
+            "Lo-Fi",
+            "Slacker Rock",
+            "Soft Rock"
+        ]
+    },
+    {
+        "album": "High Off Life",
+        "artist": "Future",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "HNDRXX",
+        "artist": "Future",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Melodic Rap",
+            "Pop Rap",
+            "Soul Trap",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Hollywood's Bleeding",
+        "artist": "Post Malone",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative R&B",
+            "Alternative Rock",
+            "Emo Rap",
+            "Pop Rap",
+            "Pop Rock",
+            "Synthpop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Rock",
+        "subgenres": [
+            "Classic Rock",
+            "Country Rock",
+            "Folk Rock",
+            "Pop Rock",
+            "Soft Rock",
+            "Southern Rock"
+        ]
+    },
+    {
+        "album": "Hounds of Love",
+        "artist": "Kate Bush",
+        "genre": "Pop",
+        "subgenres": [
+            "Alternative Rock",
+            "Art Pop",
+            "Art Rock",
+            "Avant-Pop",
+            "Baroque Pop",
+            "Dream Pop",
+            "Progressive Pop",
+            "Synthpop"
+        ]
+    },
+    {
+        "album": "Houses of the Holy",
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "subgenres": [
+            "Blues Rock",
+            "Classic Rock",
+            "Funk Rock",
+            "Hard Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Reggae Rock"
+        ]
+    },
+    {
+        "album": "Huncho Jack, Jack Huncho",
+        "artist": "Quavo, Travis Scott, Huncho Jack",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "i am > i was",
+        "artist": "21 Savage",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Conscious Hip Hop",
+            "Gangsta Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "If You're Reading This It's Too Late",
+        "artist": "Drake",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative R&B",
+            "Conscious Hip Hop",
+            "Pop Rap",
+            "Trap",
+            "Toronto Sound"
+        ]
+    },
+    {
+        "album": "IGOR",
+        "artist": "Tyler, The Creator",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Art Pop",
+            "Experimental Hip Hop",
+            "Neo-Soul",
+            "Pop Rap",
+            "Progressive R&B",
+            "Psychedelic Soul",
+            "Synthpop"
+        ]
+    },
+    {
+        "album": "Illmatic",
+        "artist": "Nas",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Boom Bap",
+            "Conscious Hip Hop",
+            "East Coast Hip Hop",
+            "Hardcore Hip Hop",
+            "Jazz Rap"
+        ]
+    },
+    {
+        "album": "Imperial",
+        "artist": "Denzel Curry",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Cloud Rap",
+            "Conscious Hip Hop",
+            "Hardcore Hip Hop",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "I'm Up",
+        "artist": "Young Thug",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "In the Aeroplane Over the Sea",
+        "artist": "Neutral Milk Hotel",
+        "genre": "Rock",
+        "subgenres": [
+            "Baroque Pop",
+            "Folk Rock",
+            "Indie Folk",
+            "Indie Rock",
+            "Lo-Fi",
+            "Psychedelic Folk"
+        ]
+    },
+    {
+        "album": "iridescence",
+        "artist": "BROCKHAMPTON",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Experimental Hip Hop",
+            "Industrial Hip Hop",
+            "Pop Rap",
+            "Post-Punk",
+            "Psychedelic Hip Hop"
+        ]
+    },
+    {
+        "album": "Issa Album",
+        "artist": "21 Savage",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Gangsta Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "JACKBOYS",
+        "artist": "Travis Scott, JACKBOYS",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "JEFFERY",
+        "artist": "Young Thug",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Atlanta Hip Hop",
+            "Cloud Rap",
+            "Experimental Hip Hop",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
+        ]
+    },
+    {
+        "album": "Kauai",
+        "artist": "Childish Gambino",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Electropop",
+            "Indie Pop",
+            "Pop Rap",
+            "Synthpop",
+            "Tropical Pop"
+        ]
+    },
+    {
+        "album": "KIDS SEE GHOSTS",
+        "artist": "Kanye West, Kid Cudi, KIDS SEE GHOSTS",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Experimental Hip Hop",
+            "Industrial Hip Hop",
+            "Progressive Hip Hop",
+            "Psychedelic Hip Hop",
+            "Pop Rap",
+            "Rap Rock"
+        ]
+    },
+    {
+        "album": "Kill 'Em All",
+        "artist": "Metallica",
+        "genre": "Rock",
+        "subgenres": [
+            "Heavy Metal",
+            "Speed Metal",
+            "Thrash Metal"
+        ]
+    },
+    {
+        "album": "Late Registration",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Chipmunk Soul",
+            "Conscious Hip Hop",
+            "Jazz Rap",
+            "Orchestral Hip Hop",
+            "Pop Rap",
+            "Progressive Hip Hop",
+            "Soul"
+        ]
+    },
+    {
+        "album": "L.A. Woman",
+        "artist": "The Doors",
+        "genre": "Rock",
+        "subgenres": [
+            "Acid Rock",
+            "Blues Rock",
+            "Classic Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Led Zeppelin",         // RETURNS LED ZEP IV
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "subgenres": [
+            "Blues Rock",
+            "Classic Rock",
+            "Folk Rock",
+            "Hard Rock",
+            "Heavy Metal",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Led Zeppelin II",
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "subgenres": [
+            "Blues Rock",
+            "Classic Rock",
+            "Hard Rock",
+            "Heavy Metal",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Led Zeppelin III",
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "subgenres": [
+            "Acoustic Rock",
+            "Blues Rock",
+            "Folk Rock",
+            "Hard Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "Led Zeppelin IV",
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "subgenres": [
+            "Blues Rock",
+            "Classic Rock",
+            "Folk Rock",
+            "Hard Rock",
+            "Heavy Metal",
+            "Psychedelic Rock",
+            ""
+        ]
+    },
+    {
+        "album": "Let's Start Here.",
+        "artist": "Lil Yachty",
+        "genre": "Rock",
+        "subgenres": [
+            "Alternative Rock",
+            "Art Rock",
+            "Funk",
+            "Neo-Psychedelia",
+            "Progressive Rock",
+            "Psychedelic Rock"
+        ]
+    },
+    {
+        "album": "The Life Of Pablo",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "The Life Of Pi'erre 4",
+        "artist": "Pi'erre Bourne",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "The Life Of Pi'erre 5",
+        "artist": "Pi'erre Bourne",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "LIFE'S A TRIP",
+        "artist": "Trippie Redd",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Lil Uzi Vert vs. The World",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "The Lo-Fis",
+        "artist": "Steve Lacy",
+        "genre": "R&B",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "LONG.LIVE.A$AP",
+        "artist": "A$AP Rocky",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Lust For Life",
+        "artist": "Lana Del Rey",
+        "genre": "Pop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Luv Is Rage",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Luv Is Rage 2",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Madvillainy",
+        "artist": "Madlib, MF DOOM, Madvillain",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Maggot Brain",
+        "artist": "Funkadelic",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Malibu",
+        "artist": "Anderson .Paak",
+        "genre": "R&B",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Man On The Moon: The End Of Day",
+        "artist": "Kid Cudi",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Man On The Moon II: The Legend Of Mr. Rager",
+        "artist": "Kid Cudi",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Master of Reality",
+        "artist": "Black Sabbath",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Meddle",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Melophobia",
+        "artist": "Cage The Elephant",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "MM..FOOD",
+        "artist": "MF DOOM",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "A Momentary Lapse of Reason",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Monster",
+        "artist": "Future",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "More Life",
+        "artist": "Drake",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Morrison Hotel",
+        "artist": "The Doors",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Mr. Morale & The Big Steppers",
+        "artist": "Kendrick Lamar",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "artist": "Kanye West",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
         ]
     }
 ];
