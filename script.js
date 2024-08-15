@@ -1,5 +1,5 @@
-const clientId = '07bc64cf2fe247f081cd53885092f238';
-const clientSecret = '96724bddf95e48bbbd375a1cd0f027b8';
+const clientId = '';
+const clientSecret = '';
 
 let albumDataCache = null;
 
@@ -42,7 +42,7 @@ const fetchAlbumData = async (albumName, artistName) => {
     } else if (albumName.toLowerCase() === 'led zeppelin' && artistName.toLowerCase() === 'led zeppelin') {
         const ledZepAlbumId = '1J8QW9qsMLx3staWaHpQmU';  // Spotify ID for "Led Zeppelin I" by Led Zeppelin
         return await fetchAlbumDataById(ledZepAlbumId);
-    } else if (albumName.toLowerCase() === 'led zeppelin II' && artistName.toLowerCase() === 'led zeppelin') {
+    } else if (albumName.toLowerCase() === 'led zeppelin ii' && artistName.toLowerCase() === 'led zeppelin') {
         const ledZepIIAlbumId = '58MQ0PLijVHePUonQlK76Y';  // Spotify ID for "Led Zeppelin II" by Led Zeppelin
         return await fetchAlbumDataById(ledZepIIAlbumId);
     }

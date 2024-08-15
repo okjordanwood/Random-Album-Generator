@@ -143,6 +143,7 @@ const albumList = [
         "genre": "Rock",
         "subgenres": [
             "Art Rock",
+            "Classic Rock",
             "Progressive Rock",
             "Psychedelic Rock",
             "Space Rock"
@@ -193,6 +194,7 @@ const albumList = [
         "subgenres": [
             "Acid Rock",
             "Blues Rock",
+            "Classic Rock",
             "Hard Rock",
             "Psychedelic Blues",
             "Psychedelic Rock"
@@ -259,6 +261,7 @@ const albumList = [
         "genre": "Rock",
         "subgenres": [
             "Art Rock",
+            "Classic Rock",
             "Experimental Rock",
             "Progressive Rock",
             "Psychedelic Folk",
@@ -298,6 +301,7 @@ const albumList = [
         "subgenres": [
             "Acid Rock",
             "Blues Rock",
+            "Classic Rock",
             "Experimental Rock",
             "Hard Rock",
             "Psychedelic Blues",
@@ -566,6 +570,7 @@ const albumList = [
         "subgenres": [
             "Acid Rock",
             "Blues Rock",
+            "Classic Rock",
             "Funk Rock",
             "Hard Rock",
             "Psychedelic Rock",
@@ -650,6 +655,7 @@ const albumList = [
         "genre": "Rock",
         "subgenres": [
             "Art Rock",
+            "Classic Rock",
             "Experimental Rock",
             "Progressive Rock",
             "Psychedelic Rock",
@@ -721,6 +727,7 @@ const albumList = [
         "subgenres": [
             "Acid Rock",
             "Blues Rock",
+            "Classic Rock",
             "Garage Rock",
             "Psychedelic Rock"
         ]
@@ -746,6 +753,7 @@ const albumList = [
             "Ambient Rock",
             "Arena Rock",
             "Art Rock",
+            "Classic Rock",
             "Progressive Rock",
             "Psychedelic Rock",
             "Symphonic Rock"
@@ -788,6 +796,7 @@ const albumList = [
             "Acid Rock",
             "Art Rock",
             "Blues Rock",
+            "Classic Rock",
             "Hard Rock",
             "Psychedelic Rock"
         ]
@@ -828,6 +837,7 @@ const albumList = [
             "Acid Rock",
             "Art Rock",
             "Blues Rock",
+            "Classic Rock",
             "Experimental Rock",
             "Funk Rock",
             "Hard Rock",
@@ -1351,7 +1361,7 @@ const albumList = [
         ]
     },
     {
-        "album": "Led Zeppelin",         // RETURNS LED ZEP IV
+        "album": "Led Zeppelin",
         "artist": "Led Zeppelin",
         "genre": "Rock",
         "subgenres": [
@@ -1382,6 +1392,7 @@ const albumList = [
         "subgenres": [
             "Acoustic Rock",
             "Blues Rock",
+            "Classic Rock",
             "Folk Rock",
             "Hard Rock",
             "Psychedelic Rock"
@@ -1419,7 +1430,16 @@ const albumList = [
         "artist": "Kanye West",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative Hip Hop",
+            "Art Pop",
+            "Contemporary R&B",
+            "Electronic",
+            "Experimental Hip Hop",
+            "Gospel",
+            "House",
+            "Pop Rap",
+            "Progressive Hip Hop",
+            "Trap"
         ]
     },
     {
@@ -1427,7 +1447,12 @@ const albumList = [
         "artist": "Pi'erre Bourne",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Cloud Rap",
+            "Electronic",
+            "Melodic Rap",
+            "Pop Rap",
+            "Synthwave",
+            "Trap"
         ]
     },
     {
@@ -1435,7 +1460,12 @@ const albumList = [
         "artist": "Pi'erre Bourne",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Cloud Rap",
+            "Electronic",
+            "Melodic Rap",
+            "Pop Rap",
+            "Synthwave",
+            "Trap"
         ]
     },
     {
@@ -1443,7 +1473,12 @@ const albumList = [
         "artist": "Trippie Redd",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative R&B",
+            "Emo Rap",
+            "Melodic Rap",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Trap"
         ]
     },
     {
@@ -1451,7 +1486,12 @@ const albumList = [
         "artist": "Lil Uzi Vert",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Cloud Rap",
+            "Emo Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Trap"
         ]
     },
     {
@@ -1459,7 +1499,12 @@ const albumList = [
         "artist": "Steve Lacy",
         "genre": "R&B",
         "subgenres": [
-            ""
+            "Alternative R&B",
+            "Bedroom Pop",
+            "Funk",
+            "Indie R&B",
+            "Lo-Fi",
+            "Neo-Soul"
         ]
     },
     {
@@ -1467,7 +1512,13 @@ const albumList = [
         "artist": "A$AP Rocky",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Cloud Rap",
+            "East Coast Hip Hop",
+            "Experimental Hip Hop",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Southern Hip Hop",
+            "Trap"
         ]
     },
     {
@@ -1475,7 +1526,14 @@ const albumList = [
         "artist": "Lana Del Rey",
         "genre": "Pop",
         "subgenres": [
-            ""
+            "Alternative R&B",
+            "Art Pop",
+            "Baroque Pop",
+            "Dream Pop",
+            "Folk",
+            "Indie Pop",
+            "Psychedelic Pop",
+            "Trip Hop"
         ]
     },
     {
@@ -1483,7 +1541,12 @@ const albumList = [
         "artist": "Lil Uzi Vert",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Cloud Rap",
+            "Emo Rap",
+            "Melodic Rap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Trap"
         ]
     },
     {
@@ -1491,7 +1554,13 @@ const albumList = [
         "artist": "Lil Uzi Vert",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative R&B",
+            "Cloud Rap",
+            "Emo Rap",
+            "Melodic Rap",
+            "Pop Rap",
+            "Psychedelic Trap",
+            "Trap"
         ]
     },
     {
@@ -1499,7 +1568,14 @@ const albumList = [
         "artist": "Madlib, MF DOOM, Madvillain",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Abstract Hip Hop",
+            "Alternative Hip Hop",
+            "Boom Bap",
+            "Experimental Hip Hop",
+            "Instrumental Hip Hop",
+            "Jazz Rap",
+            "Progressive Hip Hop",
+            "Underground Hip Hop"
         ]
     },
     {
@@ -1507,7 +1583,12 @@ const albumList = [
         "artist": "Funkadelic",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Acid Rock",
+            "Funk",
+            "Funk Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Psychedelic Soul"
         ]
     },
     {
@@ -1515,7 +1596,13 @@ const albumList = [
         "artist": "Anderson .Paak",
         "genre": "R&B",
         "subgenres": [
-            ""
+            "Alternative Hip Hop",
+            "Alternative R&B",
+            "Contemporary R&B",
+            "Funk",
+            "Jazz Rap",
+            "Neo-Soul",
+            "Soul"
         ]
     },
     {
@@ -1523,7 +1610,13 @@ const albumList = [
         "artist": "Kid Cudi",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative Hip Hop",
+            "Cloud Rap",
+            "Electronic Hip Hop",
+            "Emo Rap",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Trip Hop"
         ]
     },
     {
@@ -1531,7 +1624,14 @@ const albumList = [
         "artist": "Kid Cudi",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative Hip Hop",
+            "Cloud Rap",
+            "Electronic Hip Hop",
+            "Emo Rap",
+            "Pop Rap",
+            "Psychedelic Hip Hop",
+            "Psychedelic Rock",
+            "Trip Hop"
         ]
     },
     {
@@ -1539,7 +1639,12 @@ const albumList = [
         "artist": "Black Sabbath",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Doom Metal",
+            "Hard Rock",
+            "Heavy Metal",
+            "Heavy Psychedelia",
+            "Proto-Doom Metal",
+            "Stoner Rock"
         ]
     },
     {
@@ -1547,7 +1652,13 @@ const albumList = [
         "artist": "Pink Floyd",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Ambient Rock",
+            "Art Rock",
+            "Classic Rock",
+            "Progressive Rock",
+            "Psychedelic Folk",
+            "Psychedelic Rock",
+            "Space Rock"
         ]
     },
     {
@@ -1555,7 +1666,13 @@ const albumList = [
         "artist": "Cage The Elephant",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Alternative Rock",
+            "Art Rock",
+            "Garage Rock Revival",
+            "Indie Rock",
+            "Post-Punk Revival",
+            "Psychedelic Rock",
+            "Punk Rock"
         ]
     },
     {
@@ -1563,7 +1680,14 @@ const albumList = [
         "artist": "MF DOOM",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Abstract Hip Hop",
+            "Alternative Hip Hop",
+            "Boom Bap",
+            "Experimental Hip Hop",
+            "Instrumental Hip Hop",
+            "Jazz Rap",
+            "Progressive Hip Hop",
+            "Underground Hip Hop"
         ]
     },
     {
@@ -1571,7 +1695,14 @@ const albumList = [
         "artist": "Pink Floyd",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Ambient Rock",
+            "Art Rock",
+            "Arena Rock",
+            "Classic Rock",
+            "Pop Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Soft Rock"
         ]
     },
     {
@@ -1579,7 +1710,12 @@ const albumList = [
         "artist": "Future",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Atlanta Hip Hop",
+            "Dark Trap",
+            "Mumble Rap",
+            "Pop Rap",
+            "Southern Hip Hop",
+            "Trap"
         ]
     },
     {
@@ -1587,7 +1723,14 @@ const albumList = [
         "artist": "Drake",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Afrobeat",
+            "Alternative R&B",
+            "Dancehall",
+            "Grime",
+            "Pop Rap",
+            "Trap",
+            "Tropical House",
+            "UK Garage"
         ]
     },
     {
@@ -1595,7 +1738,12 @@ const albumList = [
         "artist": "The Doors",
         "genre": "Rock",
         "subgenres": [
-            ""
+            "Acid Rock",
+            "Blues Rock",
+            "Classic Rock",
+            "Hard Rock",
+            "Folk Rock",
+            "Psychedelic Rock"
         ]
     },
     {
@@ -1603,13 +1751,127 @@ const albumList = [
         "artist": "Kendrick Lamar",
         "genre": "Hip Hop",
         "subgenres": [
-            ""
+            "Alternative Hip Hop",
+            "Conscious Hip Hop",
+            "Contemporary R&B",
+            "Experimental Hip Hop",
+            "Jazz Rap",
+            "Neo-Soul",
+            "Progressive Hip Hop"
         ]
     },
     {
         "album": "My Beautiful Dark Twisted Fantasy",
         "artist": "Kanye West",
         "genre": "Hip Hop",
+        "subgenres": [
+            "Alternative Hip Hop",
+            "Art Pop",
+            "Baroque Pop",
+            "Electro-Rap",
+            "Industrial Hip Hop",
+            "Pop Rap",
+            "Progressive Hip Hop",
+            "Psychedelic Hip Hop"
+        ]
+    },
+    {
+        "album": "Nevermind",
+        "artist": "Nirvana",
+        "genre": "Rock",
+        "subgenres": [
+            "Alternative Rock",
+            "Grunge",
+            "Hard Rock",
+            "Pop Rock",
+            "Post-Punk",
+            "Punk Rock"
+        ]
+    },
+    {
+        "album": "Norman Fucking Rockwell!",
+        "artist": "Lana Del Rey",
+        "genre": "Pop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "NOT ALL HEROES WEAR CAPES",
+        "artist": "Metro Boomin",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Nothing Was The Same",
+        "artist": "Drake",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Obscured by Clouds",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Paranoid",
+        "artist": "Black Sabbath",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "The Perfect LUV Tape",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Pink Tape",
+        "artist": "Lil Uzi Vert",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "The Piper at the Gates of Dawn",
+        "artist": "Pink Floyd",
+        "genre": "Rock",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Playboi Carti",
+        "artist": "Playboi Carti",
+        "genre": "Hip Hop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Pony",
+        "artist": "Rex Orange Country",
+        "genre": "Pop",
+        "subgenres": [
+            ""
+        ]
+    },
+    {
+        "album": "Pure Heroine",
+        "artist": "Lorde",
+        "genre": "Pop",
         "subgenres": [
             ""
         ]
